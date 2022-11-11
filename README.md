@@ -4,6 +4,7 @@
 - React Hooks
 - React Router Dom
 - React Icons
+- Styled Components
 - AXIOS
 - uuid
 
